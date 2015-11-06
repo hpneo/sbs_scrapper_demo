@@ -1,0 +1,11 @@
+{
+  "name": "sbs_scrapper_demo",
+  "version": "1.0.0",
+  "description": "SBS Scrapper to get exchange rate",
+  "main": "index.js",
+  "author": "Gustavo Leon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
